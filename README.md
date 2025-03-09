@@ -38,7 +38,7 @@ too many tombstone will slow the probing search time. like the figure 16 , H(33)
 
 
 ### video 
-
+https://youtu.be/6IrcCvqwcUE
 
 
 
