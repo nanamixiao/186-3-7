@@ -7,6 +7,15 @@ I use the set function of python instead of list
 
 array = {200,400,100,50,350}
 
+array = {
+    200: True,
+    400: True,
+    100: True,
+    50: True,
+    350: True
+}
+
+
 ```
 ## part II 
 ``` C++
